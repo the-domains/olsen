@@ -6,9 +6,9 @@ color:
   saturation: 0.8325263103470206
   rhythmicContrast: 0.5577032731380314
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Olsen
