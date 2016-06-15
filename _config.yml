@@ -1,0 +1,14 @@
+layout_spectrum: 0.1396468640305102
+typography_spectrum: 0.7462924965657294
+color:
+  brandStrength: 0.6852380631025881
+  lightness: 0.8380345229525119
+  saturation: 0.8325263103470206
+  rhythmicContrast: 0.5577032731380314
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Olsen
